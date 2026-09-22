@@ -1,0 +1,9 @@
+# Out-of-source build directories
+/build-*/
+/build/
+
+# Editor / OS noise
+.DS_Store
+compile_commands.json
+.cache/
+.CLAUDE.md
